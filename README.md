@@ -40,15 +40,4 @@
 ```
 
  
- - 将官方案例改造后的目录结构
-
-![输入图片说明](https://gitee.com/uploads/images/2018/0331/114544_f100fe0c_1387578.png "屏幕截图.png")
-
-
- 
-- 官网案例运行截图
-![输入图片说明](https://gitee.com/uploads/images/2018/0330/155646_b3bda2bc_1387578.png "屏幕截图.png")
-
-- 改造后运行demo图
-
-![输入图片说明](https://gitee.com/uploads/images/2018/0331/114630_4eb46ab0_1387578.gif "QQ登录demo演示.gif")
+效果请看我的博客：https://blog.csdn.net/weixin_37762923/article/details/93597061
