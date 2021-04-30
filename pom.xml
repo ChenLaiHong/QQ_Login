@@ -19,7 +19,7 @@
         <fastjson.version>1.2.12</fastjson.version>
         <qq.sdk4j.version>1.0.0</qq.sdk4j.version>
         <!--spring&spring mvc version-->
-        <spring.version>4.3.11.RELEASE</spring.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
         <jackson.version>2.8.1</jackson.version>
         <!--logback version-->
         <sl4j.version>1.7.25</sl4j.version>
