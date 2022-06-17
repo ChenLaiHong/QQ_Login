@@ -16,7 +16,7 @@
         <servlet.version>3.1.0</servlet.version>
         <jstl.version>1.2</jstl.version>
         <tglib.version>1.1.2</tglib.version>
-        <fastjson.version>1.2.12</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <qq.sdk4j.version>1.0.0</qq.sdk4j.version>
         <!--spring&spring mvc version-->
         <spring.version>4.3.11.RELEASE</spring.version>
